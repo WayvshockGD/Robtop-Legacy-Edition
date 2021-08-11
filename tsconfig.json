@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ESNext",
+        "outDir": "./build",
+        "allowJs": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
